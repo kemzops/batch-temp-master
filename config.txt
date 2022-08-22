@@ -1,0 +1,8 @@
+temp1=true
+temp2=true
+discord_cache=false
+logfiles=true
+prefetch=false
+needconfirm=true
+version=V1.0.0
+color=1
