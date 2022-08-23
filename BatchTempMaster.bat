@@ -104,7 +104,7 @@ if %temp2%==true (
 	del /f /q *
     ECHO. 
     ECHO ========================================================================
-    ECHO TEMP2: %windir%/temp - SKIPPED
+    ECHO TEMP2: %windir%/temp - DONE
     ECHO ========================================================================
     ECHO.
 ) Else (
